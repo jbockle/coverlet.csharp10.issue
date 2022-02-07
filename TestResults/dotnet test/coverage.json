@@ -1,0 +1,22 @@
+{
+  "TopLevelStatements.dll": {
+    "C:\\dev\\repos\\TopLevelStatements\\TopLevelStatements\\MyClass.cs": {
+      "TopLevelStatements.MyClass": {
+        "System.String TopLevelStatements.MyClass::Greet(System.String)": {
+          "Lines": {
+            "8": 2,
+            "9": 2,
+            "10": 2
+          },
+          "Branches": []
+        },
+        "System.Void TopLevelStatements.MyClass::.ctor()": {
+          "Lines": {
+            "5": 2
+          },
+          "Branches": []
+        }
+      }
+    }
+  }
+}

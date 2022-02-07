@@ -1,0 +1,16 @@
+SF:C:\dev\repos\TopLevelStatements\TopLevelStatements\MyClass.cs
+FN:7,System.String TopLevelStatements.MyClass::Greet(System.String)
+FNDA:2,System.String TopLevelStatements.MyClass::Greet(System.String)
+DA:8,2
+DA:9,2
+DA:10,2
+FN:4,System.Void TopLevelStatements.MyClass::.ctor()
+FNDA:2,System.Void TopLevelStatements.MyClass::.ctor()
+DA:5,2
+LF:4
+LH:4
+BRF:0
+BRH:0
+FNF:2
+FNH:2
+end_of_record
